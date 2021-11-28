@@ -10,7 +10,7 @@
   --bgmiddle-color: #f5f4fa;
 }
 .page {
-  background-color: var(--bgmain-color);
+  background-color: var(--light-color);
   color: var(--main-color);
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.03em;
