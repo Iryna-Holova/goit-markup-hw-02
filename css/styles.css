@@ -41,7 +41,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 800;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--color-primary-brand);
 }
@@ -64,11 +64,7 @@ body {
   color: var(--color-pressed-state);
 }
 
-.nav-link.active {
-  color: var(--color-pressed-state);
-}
-
-.contacts-link {
+.contacts {
   font-style: normal;
 }
 
@@ -86,7 +82,7 @@ body {
   color: var(--color-white-background);
   text-align: center;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
 }
 
@@ -106,9 +102,10 @@ body {
 
 .section-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: var(--color-dark);
+  text-align: center;
   text-transform: capitalize;
 }
 
